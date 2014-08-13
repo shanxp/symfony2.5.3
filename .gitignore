@@ -9,3 +9,8 @@
 /vendor/
 /bin/
 /composer.phar
+.idea/
+.idea/encodings.xml
+.DS_Store
+/nbproject/
+/ignore
